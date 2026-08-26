@@ -14,6 +14,8 @@
 
 ## 相关资源
 
+- [全网低价IP 官方导航站](https://socks5ip.github.io) — GitHub Pages 聚合入口
+- [proxy-checker-cli](https://github.com/socks5ip/proxy-checker-cli) — 跨平台代理检测命令行工具
 - [全网低价IP · 代理IP资源总导航](https://socks5ip.com.cn)
 - [代理IP工具与检测脚本](https://github.com/socks5ip/proxy-resource-hub)（含 SOCKS5 连通性检测脚本）
 - [IP 网络基础知识库](https://github.com/socks5ip/ip-zhishi-base)
