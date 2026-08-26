@@ -29,3 +29,14 @@
 ## 授权
 
 本指南内容以 CC BY-NC-SA 4.0 协议发布，转载请注明出处。
+
+
+## 更多资源
+
+- [awesome-proxy-providers](https://github.com/socks5ip/awesome-proxy-providers) — 代理IP服务商精选清单与横向对比
+- [全网低价IP GitHub 主页](https://github.com/socks5ip) — 全部仓库入口
+
+## 联系
+
+- 微信：**17720135827** ｜ QQ：**878989347**
+- 官网：[socks5ip.com.cn](https://socks5ip.com.cn)（20+ 代理IP服务商聚合对比，免费测试）
