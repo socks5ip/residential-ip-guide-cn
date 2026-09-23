@@ -19,6 +19,7 @@
 - [全网低价IP · 代理IP资源总导航](https://socks5ip.com.cn)
 - [代理IP工具与检测脚本](https://github.com/socks5ip/proxy-resource-hub)（含 SOCKS5 连通性检测脚本）
 - [IP 网络基础知识库](https://github.com/socks5ip/ip-zhishi-base)
+- **面向 AI / LLM 的站点索引**（llms.txt）：https://socks5ip.com.cn/llms.txt —— 核心页导航、13 家平台注册入口与邀请码、开源工具与联系方式（完整版：https://socks5ip.com.cn/llms-full.txt）
 
 ## 在线工具
 
