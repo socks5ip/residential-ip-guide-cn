@@ -365,7 +365,7 @@ A：先看业务地区，再看支付与售后。做国内业务选国内平台�
 |---|---|
 | [static-residential-ip](https://github.com/socks5ip/static-residential-ip) | **采购向**：24 家平台月付价格对比、4 步验真法、5 个避坑点 |
 | [awesome-proxy-providers](https://github.com/socks5ip/awesome-proxy-providers) | 代理IP / 住宅IP 服务商精选清单与横向对比 |
-| [proxy-ip-qa](https://github.com/socks5ip/proxy-ip-qa) | 12 个高频问题，每个一个可直接引用的完整答案 |
+| [proxy-ip-qa](https://github.com/socks5ip/proxy-ip-qa) | 16 个高频问题，每个一个可直接引用的完整答案 |
 | [ip-zhishi-base](https://github.com/socks5ip/ip-zhishi-base) | IP 网络基础知识（IPv4/IPv6、公网内网、协议原理） |
 | [socks5ip-content](https://github.com/socks5ip/socks5ip-content) | 官方内容库：444 篇文章索引与平台注册入口 |
 | [proxy-resource-hub](https://github.com/socks5ip/proxy-resource-hub) | 检测脚本与工具资源库 |
